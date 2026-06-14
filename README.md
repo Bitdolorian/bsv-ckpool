@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/ckpool_bsv_ckstats.jpg" width="700" alt="CKPool-DigiByte Stack">
+</p>
 
 
 # Bitcoin-sv with CKpool: Solo Mining  
